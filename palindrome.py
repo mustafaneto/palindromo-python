@@ -14,4 +14,5 @@ if len(palavraOufrase) > 1:
         print("A frase ou palavra é um palíndromo")
     else:
         print("A frase ou palavra não é um palíndromo.")
-
+else:
+    print("Input inválido")
